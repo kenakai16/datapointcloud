@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# https://github.com/yanx27/Pointnet_Pointnet2_pytorch/blob/master/train_semseg.py
 # In[ ]:
 
 
